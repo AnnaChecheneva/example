@@ -1,0 +1,16 @@
+D:\Visual studio\examp\examp003sum\bin\Debug\net6.0\examp003sum.exe
+D:\Visual studio\examp\examp003sum\bin\Debug\net6.0\examp003sum.deps.json
+D:\Visual studio\examp\examp003sum\bin\Debug\net6.0\examp003sum.runtimeconfig.json
+D:\Visual studio\examp\examp003sum\bin\Debug\net6.0\examp003sum.dll
+D:\Visual studio\examp\examp003sum\bin\Debug\net6.0\ref\examp003sum.dll
+D:\Visual studio\examp\examp003sum\bin\Debug\net6.0\examp003sum.pdb
+D:\Visual studio\examp\examp003sum\obj\Debug\net6.0\examp003sum.GlobalUsings.g.cs
+D:\Visual studio\examp\examp003sum\obj\Debug\net6.0\examp003sum.csproj.AssemblyReference.cache
+D:\Visual studio\examp\examp003sum\obj\Debug\net6.0\examp003sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\examp\examp003sum\obj\Debug\net6.0\examp003sum.AssemblyInfoInputs.cache
+D:\Visual studio\examp\examp003sum\obj\Debug\net6.0\examp003sum.AssemblyInfo.cs
+D:\Visual studio\examp\examp003sum\obj\Debug\net6.0\examp003sum.csproj.CoreCompileInputs.cache
+D:\Visual studio\examp\examp003sum\obj\Debug\net6.0\examp003sum.dll
+D:\Visual studio\examp\examp003sum\obj\Debug\net6.0\ref\examp003sum.dll
+D:\Visual studio\examp\examp003sum\obj\Debug\net6.0\examp003sum.pdb
+D:\Visual studio\examp\examp003sum\obj\Debug\net6.0\examp003sum.genruntimeconfig.cache
