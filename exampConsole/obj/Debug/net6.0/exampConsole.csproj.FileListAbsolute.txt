@@ -1,0 +1,16 @@
+D:\Visual studio\examp\exampConsole\bin\Debug\net6.0\exampConsole.exe
+D:\Visual studio\examp\exampConsole\bin\Debug\net6.0\exampConsole.deps.json
+D:\Visual studio\examp\exampConsole\bin\Debug\net6.0\exampConsole.runtimeconfig.json
+D:\Visual studio\examp\exampConsole\bin\Debug\net6.0\exampConsole.dll
+D:\Visual studio\examp\exampConsole\bin\Debug\net6.0\ref\exampConsole.dll
+D:\Visual studio\examp\exampConsole\bin\Debug\net6.0\exampConsole.pdb
+D:\Visual studio\examp\exampConsole\obj\Debug\net6.0\exampConsole.GlobalUsings.g.cs
+D:\Visual studio\examp\exampConsole\obj\Debug\net6.0\exampConsole.csproj.AssemblyReference.cache
+D:\Visual studio\examp\exampConsole\obj\Debug\net6.0\exampConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\examp\exampConsole\obj\Debug\net6.0\exampConsole.AssemblyInfoInputs.cache
+D:\Visual studio\examp\exampConsole\obj\Debug\net6.0\exampConsole.AssemblyInfo.cs
+D:\Visual studio\examp\exampConsole\obj\Debug\net6.0\exampConsole.csproj.CoreCompileInputs.cache
+D:\Visual studio\examp\exampConsole\obj\Debug\net6.0\exampConsole.dll
+D:\Visual studio\examp\exampConsole\obj\Debug\net6.0\ref\exampConsole.dll
+D:\Visual studio\examp\exampConsole\obj\Debug\net6.0\exampConsole.pdb
+D:\Visual studio\examp\exampConsole\obj\Debug\net6.0\exampConsole.genruntimeconfig.cache
